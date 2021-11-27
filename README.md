@@ -9,13 +9,13 @@ Before doing anything, make sure you know what are you doing! Settings applied b
 1. Set up SSH keys
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/rogerluan/dotfiles/master/set_up_ssh_key.sh)
+bash <(curl -s https://raw.githubusercontent.com/dan-gill/dotfiles/master/set_up_ssh_key.sh)
 ```
 
 2. Clone this repo into ~/.dotfiles
 
 ```
-git clone git@github.com:rogerluan/dotfiles.git ~/.dotfiles
+git clone git@github.com:dan-gill/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./_set_up.sh
 ```
