@@ -69,15 +69,20 @@ dependencies that could manage their installation.
 
 ## App Store
 
-- AdBlock
-- AdBlock Plus
-- Git Streak
+- Adobe Lightroom
+- AwardWallet
+- CardPointers: Maximize Rewards
+- Dashlane - Password Manager
+- DuckDuckGo Privacy Essentials
+- GarageBand
+- iMovie
 - Keynote
+- Messenger
+- Microsoft OneNote
+- NordVPN: VPN Fast & Secure
 - Numbers
 - Pages
-- RAR Extractor Lite
-- Slack
-- SortingMatters
+- Slack for Desktop
 - Telegram
 
 ## Dock Pinned Applications
