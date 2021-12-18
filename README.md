@@ -70,6 +70,7 @@ dependencies that could manage their installation.
 ## App Store
 
 - Adobe Lightroom
+- AwardWallet
 - CardPointers
 - Dashlane
 - DuckDuckGo Privacy Essentials
@@ -78,9 +79,14 @@ dependencies that could manage their installation.
 - iMovie
 - Keynote
 - Messenger
+- Microsoft Excel
 - Microsoft OneNote
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Word
 - NordVPN
 - Numbers
+- OneDrive
 - Pages
 - Slack
 - Speedtest
