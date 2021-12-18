@@ -70,20 +70,23 @@ dependencies that could manage their installation.
 ## App Store
 
 - Adobe Lightroom
-- AwardWallet
-- CardPointers: Maximize Rewards
-- Dashlane - Password Manager
+- CardPointers
+- Dashlane
 - DuckDuckGo Privacy Essentials
 - GarageBand
+- Grammarly for Safari
 - iMovie
 - Keynote
 - Messenger
 - Microsoft OneNote
-- NordVPN: VPN Fast & Secure
+- NordVPN
 - Numbers
 - Pages
-- Slack for Desktop
+- Slack
+- Speedtest
 - Telegram
+- WhatsApp
+- Yubico Authenticator
 
 ## Dock Pinned Applications
 
