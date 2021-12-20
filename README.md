@@ -44,28 +44,28 @@ dependencies that could manage their installation.
 
 ## Direct Download
 
-- Android Studio https://developer.android.com/studio
-- Charles https://www.charlesproxy.com/download/
-- ExpressVPN https://www.expressvpn.com/setup
-- Figma https://www.figma.com/download/desktop/mac
-- Google Chrome https://www.google.com/chrome/
-- GPG Suite https://gpgtools.org
-- Insomnia https://insomnia.rest
-- Jumpshare https://jumpshare.com/downloading
-- LSUnusedResources https://github.com/tinymind/LSUnusedResources
-- MagicPrefs http://magicprefs.com/MagicPrefs.app.zip
-- Popcorn Time https://popcorntime.sh
-- RescueTime https://www.rescuetime.com/get_rescuetime
-- SizeUp http://www.irradiatedsoftware.com/sizeup/
-- SourceTree https://www.sourcetreeapp.com
-- Spotify https://www.spotify.com/br/download/mac/
+- Android Studio <https://developer.android.com/studio>
+- Charles <https://www.charlesproxy.com/download/>
+- ExpressVPN <https://www.expressvpn.com/setup>
+- Figma <https://www.figma.com/download/desktop/mac>
+- Google Chrome <https://www.google.com/chrome/>
+- GPG Suite <https://gpgtools.org>
+- Insomnia <https://insomnia.rest>
+- Jumpshare <https://jumpshare.com/downloading>
+- LSUnusedResources <https://github.com/tinymind/LSUnusedResources>
+- MagicPrefs <http://magicprefs.com/MagicPrefs.app.zip>
+- Popcorn Time <https://popcorntime.sh>
+- RescueTime <https://www.rescuetime.com/get_rescuetime>
+- SizeUp <http://www.irradiatedsoftware.com/sizeup/>
+- SourceTree <https://www.sourcetreeapp.com>
+- Spotify <https://www.spotify.com/br/download/mac/>
 - Sublime Text (sync settings via `Sync Settings` package)
-- TinyPNG4Mac https://github.com/kyleduo/TinyPNG4Mac
-- Toggl https://toggl.github.io/toggldesktop/download/macos-stable/
-- VLC https://www.videolan.org/vlc/
-- WhatsApp https://www.whatsapp.com/download/
+- TinyPNG4Mac <https://github.com/kyleduo/TinyPNG4Mac>
+- Toggl <https://toggl.github.io/toggldesktop/download/macos-stable/>
+- VLC <https://www.videolan.org/vlc/>
+- WhatsApp <https://www.whatsapp.com/download/>
 - Xcode - Install all the version needed via [xcode-install](https://github.com/xcpretty/xcode-install)
-- Zoom https://zoom.us/client/latest/zoomusInstaller.pkg
+- Zoom <https://zoom.us/client/latest/zoomusInstaller.pkg>
 
 ## App Store
 
@@ -108,12 +108,13 @@ dependencies that could manage their installation.
 
 # Special thanks to…
 
-What dotfiles is Felix using - https://github.com/KrauseFx/dotfiles - via [@KrauseFx](https://twitter.com/krausefx)
+What dotfiles is Felix using - <https://github.com/KrauseFx/dotfiles> - via [@KrauseFx](https://twitter.com/krausefx)
 
-What Terminal is Felix using - https://github.com/KrauseFx/what-terminal-is-felix-using - via [@KrauseFx](https://twitter.com/krausefx)
+What Terminal is Felix using - <https://github.com/KrauseFx/what-terminal-is-felix-using> - via [@KrauseFx](https://twitter.com/krausefx)
 
-Change macOS User Preferences via Command Line - https://pawelgrzybek.com/change-macos-user-preferences-via-command-line/ - via [@pawelgrzybek](https://twitter.com/pawelgrzybek)
+Change macOS User Preferences via Command Line - <https://pawelgrzybek.com/change-macos-user-preferences-via-command-line/> - via [@pawelgrzybek](https://twitter.com/pawelgrzybek)
 
-Mathias’s dotfiles - https://github.com/mathiasbynens/dotfiles - via [@mathias](https://twitter.com/mathias)
+Mathias’s dotfiles - <https://github.com/mathiasbynens/dotfiles> - via [@mathias](https://twitter.com/mathias)
 
-Moving to zsh, part 2: Configuration Files - https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/ - via [@scriptingosx](https://twitter.com/scriptingosx)
+Moving to zsh, part 2: Configuration Files - <https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/> - via [@scriptingosx](https://twitter.com/scriptingosx)
+
