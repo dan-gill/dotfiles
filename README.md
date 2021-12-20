@@ -44,7 +44,7 @@ dependencies that could manage their installation.
 
 ## Direct Download
 
-- Android Studio https://developer.android.com/studio   
+- Android Studio https://developer.android.com/studio
 - Charles https://www.charlesproxy.com/download/
 - ExpressVPN https://www.expressvpn.com/setup
 - Figma https://www.figma.com/download/desktop/mac
