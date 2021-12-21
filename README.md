@@ -22,7 +22,7 @@ Before doing anything, make sure you know what are you doing! Settings applied b
 
 ## What Terminal is Roger using
 
-![Terminal image](Assets/Terminal.png){width=500px}
+![Terminal image](Assets/Terminal.png =500x)
 
 Since every time I post a screenshot of my Terminal I get asked what Terminal I use, here's some information about how I set up my Terminal, and the reasons:
 
