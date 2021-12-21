@@ -14,11 +14,11 @@ Before doing anything, make sure you know what are you doing! Settings applied b
 
 2. Clone this repo into ~/.dotfiles
 
-  ```zsh
-  git clone git@github.com:dan-gill/dotfiles.git ~/.dotfiles
-  cd ~/.dotfiles
-  ./_set_up.sh
-  ```
+    ```zsh
+    git clone git@github.com:dan-gill/dotfiles.git ~/.dotfiles
+    cd ~/.dotfiles
+    ./_set_up.sh
+    ```
 
 ## What Terminal is Roger using
 
